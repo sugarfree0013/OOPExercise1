@@ -5,9 +5,9 @@ class Bicycleregistration {
 	String  tag1,tag2, Owner1,Owner2; 
 	
 	bike1 =  new Bicycle(); 
-	bike1.setOwnerName("Sairose Eder");
+	bike1.setOwnerName("John");
 	bike2 = new Bicycle();
-	bike2.setOwnerName("James Reid ");
+	bike2.setOwnerName("Brian ");
 	
 	bike_1= new Bicycle ();
 	bike_1.settagNo("2022-194R");
