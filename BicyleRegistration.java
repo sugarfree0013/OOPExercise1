@@ -1,4 +1,4 @@
-class Bicycleregistration {
+class BicycleRegistration {
 	
 	public static void main (String []args){
 	Bicycle bike_1, bike_2, bike1, bike2;
